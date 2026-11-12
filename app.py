@@ -286,7 +286,7 @@ def display_prediction(text):
 with st.sidebar:
 
     st.markdown(
-        '<div class="brand">🛡️ OfferGuard AI</div>',
+        '<div class="brand">🛡️ Intelligent Job and Internship Fraud Detection System</div>',
         unsafe_allow_html=True
     )
 
@@ -319,7 +319,7 @@ if page == "Home":
 
     st.markdown("""
     <div class="hero">
-        <h1>Welcome to OfferGuard AI 🛡️</h1>
+        <h1>Welcome to Intelligent Job and Internship Fraud Detection System 🛡️</h1>
         <p>
             Your intelligent platform for identifying fraudulent
             internship and job opportunities.
