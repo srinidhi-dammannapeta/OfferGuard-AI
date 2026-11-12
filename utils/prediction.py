@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 import tensorflow as tf
 
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.sequence import pad_sequences 
 
 # Model configuration used during training
 MAX_LENGTH = 200
