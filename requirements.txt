@@ -5,3 +5,4 @@ plotly
 pypdf
 python-docx
 pillow
+tensorflow==2.21.0
